@@ -1,0 +1,29 @@
+* {padding:0; margin:0;}
+/*
+body {font-size:16px; font-family:Arial; text-align:left; cursor:default;
+	width:750px; height:500px; color:#000;}	*/
+
+	
+#dock,
+#content {position:absolute; top:0; left:0;}
+
+.apre {background:url(../imagens/apre.jpg) no-repeat;}
+.apreb {background:url(../imagens/apre2.jpg) no-repeat;}
+.neutro {background:url(../imagens/neutro.jpg) no-repeat;}
+.video {background:url(../imagens/video.jpg) no-repeat;}
+.un1 {background:url(../imagens/1.jpg) no-repeat;}
+.un1b {background:url(../imagens/1b.jpg) no-repeat;}
+.un1c {background:url(../imagens/1c.jpg) no-repeat;}
+.un2 {background:url(../imagens/2.jpg) no-repeat;}
+.un2b {background:url(../imagens/2b.jpg) no-repeat;}
+.un2c {background:url(../imagens/2c.jpg) no-repeat;}
+.un3 {background:url(../imagens/3.jpg) no-repeat;}
+.un3b {background:url(../imagens/3b.jpg) no-repeat;}
+.un3c {background:url(../imagens/3c.jpg) no-repeat;}
+.un4 {background:url(../imagens/4.jpg) no-repeat;}
+.un4b {background:url(../imagens/4b.jpg) no-repeat;}
+.un4c {background:url(../imagens/4c.jpg) no-repeat;}
+
+#fundoBlack {position:absolute; top:0; left:0; display:none; z-index:3; width:750px; height:500px; background: #000000; opacity:.8; filter:alpha(opacity=80);}
+.boxHolder {position:absolute; top:0; left:0; width:750px; z-index:4;}
+.box {position:absolute; display:none}

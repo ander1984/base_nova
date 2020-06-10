@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<midias>
+	<tela>
+		<material>
+			<titulo><![CDATA[VÍDEOS DA AULA 1]]></titulo>
+			<videos>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>		
+			</videos>
+			<anexo>arquivo1.pdf</anexo>
+		</material>
+		<material>
+			<titulo><![CDATA[VÍDEOS DA AULA 2]]></titulo>
+			<videos>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>		
+			</videos>
+			<anexo>arquivo2.pdf</anexo>
+		</material>
+		<material>
+			<titulo><![CDATA[VÍDEOS DA AULA 3]]></titulo>
+			<videos>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>	
+				<video>
+					<url>Albert_Skipp_Aula_1_Parte_1.mp4</url>
+					<imagem>card-aula-1-1.jpg</imagem>
+				</video>		
+			</videos>
+			<anexo>arquivo3.pdf</anexo>
+		</material>
+	</tela>
+</midias>
+

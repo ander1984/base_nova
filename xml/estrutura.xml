@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<curso id="PSP062">
+<configuracoes>
+    <plataforma>ATENA</plataforma>
+</configuracoes>
+
+<estrutura>
+    <nome><![CDATA[]]></nome>
+    <modulos>
+        <modulo>
+			<configuracao>
+				<tipo>
+					<![CDATA[]]>
+				</tipo>
+				<comportamento>
+					<![CDATA[]]>
+				</comportamento>
+				<nome>
+					<![CDATA[Modulo 0]]>
+				</nome>
+			</configuracao>
+            <licoes>
+                <licao>
+					<configuracao>
+						<tipo>
+							<![CDATA[]]>
+						</tipo>
+						<comportamento>
+							<![CDATA[]]>
+						</comportamento>
+						<nome>
+							<![CDATA[]]>
+						</nome>
+					</configuracao>
+                    <telas>
+                        <tela>
+                            <nome>
+                                <![CDATA[]]>
+                            </nome>
+                        </tela>
+                    </telas>
+                </licao> 
+             </licoes>
+        </modulo>
+		</modulos>
+	</estrutura>
+</curso>
